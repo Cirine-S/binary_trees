@@ -3,7 +3,8 @@
 
 /**
  * binary_tree_node - function
- *
+ *@func: function to call
+ * @tree: input tree
  * Return: Always 0 (Success)
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
