@@ -3,7 +3,7 @@
 
 
 /**
- * binary_tree_leaves- Function
+ * binary_tree_nodes- Function
  * @tree: input tree
  * Return: Always 0 (Success)
  */
