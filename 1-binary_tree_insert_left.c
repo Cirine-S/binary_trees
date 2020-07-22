@@ -24,7 +24,6 @@ new_node->left->parent = new_node;
 }
 
 new_node->n = value;
-parent->left = new_node;
 new_node->parent = parent;
 
 return (new_node);
