@@ -4,7 +4,7 @@
 /**
  * binary_tree_delete - function
  *@tree: input tree
- * Return: Always 0 (Success)
+ * Return: void
  */
 void binary_tree_delete(binary_tree_t *tree)
 {
