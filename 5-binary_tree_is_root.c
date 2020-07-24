@@ -4,7 +4,7 @@
 /**
  * binary_tree_is_root - function
  *@node: pointer to input node
- * Return: Always 0 (Success)
+ * Return: 0 or 1
  */
 int binary_tree_is_root(const binary_tree_t *node)
 {
